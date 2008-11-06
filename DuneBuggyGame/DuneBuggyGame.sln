@@ -1,24 +1,20 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuneBuggyGame", "DuneBuggyGame\DuneBuggyGame.csproj", "{076933BE-AC7C-46AE-802E-76F2B7346101}"
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuneBuggyGame", "DuneBuggyGame\DuneBuggyGame.csproj", "{570E8D3E-0ABC-4C54-827F-F5924C0CB154}"
 EndProject
 Global
-	GlobalSection(SubversionScc) = preSolution
-		Svn-Managed = True
-		Manager = AnkhSVN - Subversion Support for Visual Studio
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{076933BE-AC7C-46AE-802E-76F2B7346101}.Debug|x86.ActiveCfg = Debug|x86
-		{076933BE-AC7C-46AE-802E-76F2B7346101}.Debug|x86.Build.0 = Debug|x86
-		{076933BE-AC7C-46AE-802E-76F2B7346101}.Release|x86.ActiveCfg = Release|x86
-		{076933BE-AC7C-46AE-802E-76F2B7346101}.Release|x86.Build.0 = Release|x86
-		{90E36252-820E-44B7-8954-B50A9FA8307A}.Debug|x86.ActiveCfg = Debug|x86
-		{90E36252-820E-44B7-8954-B50A9FA8307A}.Release|x86.ActiveCfg = Release|x86
+		{570E8D3E-0ABC-4C54-827F-F5924C0CB154}.Debug|x86.ActiveCfg = Debug|x86
+		{570E8D3E-0ABC-4C54-827F-F5924C0CB154}.Debug|x86.Build.0 = Debug|x86
+		{570E8D3E-0ABC-4C54-827F-F5924C0CB154}.Release|x86.ActiveCfg = Release|x86
+		{570E8D3E-0ABC-4C54-827F-F5924C0CB154}.Release|x86.Build.0 = Release|x86
+		{C97BFC3D-5F73-4C4A-8677-AC4F1C6E2BB2}.Debug|x86.ActiveCfg = Debug|x86
+		{C97BFC3D-5F73-4C4A-8677-AC4F1C6E2BB2}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
