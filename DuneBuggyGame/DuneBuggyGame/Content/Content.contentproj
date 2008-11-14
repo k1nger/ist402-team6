@@ -133,8 +133,35 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Textures\hudcopy.bmp">
-      <Name>hudcopy</Name>
+    <Compile Include="Textures\hud copy.bmp">
+      <Name>hud copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\laptimes.bmp">
+      <Name>laptimes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Textures\position.bmp">
+      <Name>position</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Textures\speed.bmp">
+      <Name>speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Textures\speedometer.bmp">
+      <Name>speedometer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Textures\speedometerneedle.bmp">
+      <Name>speedometerneedle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
