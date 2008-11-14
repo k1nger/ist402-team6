@@ -41,7 +41,8 @@ namespace DuneBuggyGame
 
         public Play(ContentManager contentMngr)
         {
-            hudExample = contentMngr.Load<Texture2D>(@"Textures\hudcopy");
+            hudExample = contentMngr.Load<Texture2D>(@"Textures\hud copy");
+
             myModel = contentMngr.Load<Model>(@"Models\Mars");
 
             _PreviousInputState = GameInput.GetState();
