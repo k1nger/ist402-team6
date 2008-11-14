@@ -18,6 +18,11 @@ namespace DuneBuggyGame
         Graphics _graphics;
 
         Texture2D hudExample;
+        Texture2D lapTimes;
+        Texture2D position;
+        Texture2D speed;
+        Texture2D speedometer;
+        Texture2D speedometerNeedle;
 
         Model myModel;
         // Set the position of the model in world space, and set the rotation.
@@ -42,9 +47,12 @@ namespace DuneBuggyGame
         public Play(ContentManager contentMngr)
         {
             hudExample = contentMngr.Load<Texture2D>(@"Textures\hud copy");
-
+            lapTimes = contentMngr.Load<Texture2D>(@"Textures\laptimes");
             myModel = contentMngr.Load<Model>(@"Models\Mars");
-
+            position = contentMngr.Load<Texture2D>(@"Textures\position");
+            speed = contentMngr.Load<Texture2D>(@"Textures\speed");
+            speedometer = contentMngr.Load<Texture2D>(@"Textures\speedometer");
+            speedometerNeedle = contentMngr.Load<Texture2D>(@"Textures\speedometerneedle");
             _PreviousInputState = GameInput.GetState();
         }
         #endregion
@@ -69,7 +77,14 @@ namespace DuneBuggyGame
         {
             spriteBatch.Begin();
             if (TEST == false)
-                spriteBatch.Draw(hudExample, new Rectangle(0, 0, 800, 600), Color.White);
+            {
+                spriteBatch.Draw(lapTimes, new Rectangle(535, 20, 232, 158), Color.CornflowerBlue);
+                spriteBatch.Draw(position, new Rectangle(25, 20, 207, 96), Color.CornflowerBlue);
+                spriteBatch.Draw(speed, new Rectangle(620, 530, 156, 50), Color.CornflowerBlue);
+                //spriteBatch.Draw(speedometer, new Rectangle(660, 470, 127, 123), Color.CornflowerBlue);
+                //spriteBatch.Draw(speedometerNeedle, new Rectangle(630, 530, 39, 37), Color.CornflowerBlue);
+
+            }
             else if (TEST == true)
             {
                 // Copy any parent transforms.
