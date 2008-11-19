@@ -33,7 +33,7 @@ namespace DuneBuggyGame
         float NumberOffset = 60;
 
         //Scale of the Gauge.
-        float Scale = 1.0f;
+        float Scale = .75f;
 
         public Vector2 gaugePosition;
 
@@ -184,7 +184,7 @@ namespace DuneBuggyGame
             spriteBatch.Begin(SpriteBlendMode.AlphaBlend, SpriteSortMode.Immediate, SaveStateMode.None);
             FillEffect.Begin();
             FillEffect.CurrentTechnique.Passes[0].Begin();
-            spriteBatch.Draw(MeterFillSprite, gaugePosition, null, Color.White, 0, MeterOrigin, 1f, SpriteEffects.None, 1f);
+            spriteBatch.Draw(MeterFillSprite, gaugePosition, null, Color.White, 0, MeterOrigin, .75f, SpriteEffects.None, 1f);
             FillEffect.CurrentTechnique.Passes[0].End();
             FillEffect.End();
             spriteBatch.End();
@@ -201,7 +201,7 @@ namespace DuneBuggyGame
             spriteBatch.Begin(SpriteBlendMode.AlphaBlend, SpriteSortMode.Immediate, SaveStateMode.None);
             FillEffect.Begin();
             FillEffect.CurrentTechnique.Passes[0].Begin();
-            spriteBatch.Draw(MeterFillSprite, gaugePosition, null, Color.White, MathHelper.Pi, MeterOrigin, 1f, SpriteEffects.FlipHorizontally, 1);
+            spriteBatch.Draw(MeterFillSprite, gaugePosition, null, Color.White, MathHelper.Pi, MeterOrigin, .75f, SpriteEffects.FlipHorizontally, 1);
             FillEffect.CurrentTechnique.Passes[0].End();
             FillEffect.End();
             spriteBatch.End();
@@ -217,11 +217,11 @@ namespace DuneBuggyGame
                 SaveStateMode.SaveState);
             string text = "" + speed;
             //Draw String twice for shadow
-            spriteBatch.DrawString(SpriteFont, text, new Vector2(gaugePosition.X + 2, gaugePosition.Y + NumberOffset + 2),
+            spriteBatch.DrawString(SpriteFont, text, new Vector2(gaugePosition.X + 2, gaugePosition.Y + NumberOffset - 15),
                             Color.Black, 0f,
                             new Vector2(SpriteFont.MeasureString(text).X / 2, SpriteFont.MeasureString(text).Y / 2),
                             Scale, SpriteEffects.None, 0f);
-            spriteBatch.DrawString(SpriteFont, text, new Vector2(gaugePosition.X, gaugePosition.Y + NumberOffset),
+            spriteBatch.DrawString(SpriteFont, text, new Vector2(gaugePosition.X, gaugePosition.Y + NumberOffset - 13),
                             Color.White, 0f,
                             new Vector2(SpriteFont.MeasureString(text).X / 2, SpriteFont.MeasureString(text).Y / 2),
                             Scale, SpriteEffects.None, 0f);

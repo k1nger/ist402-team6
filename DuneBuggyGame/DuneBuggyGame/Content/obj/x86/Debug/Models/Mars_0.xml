@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>C:\DuneBuggyGame\DuneBuggyGame\DuneBuggyGame\Content\Models\Mars.FBX</SourceFilename>
+      <SourceFilename>C:\Documents and Settings\rmk5056\Desktop\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\Models\Mars.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -68,7 +68,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>19 - Default</Name>
       <Identity>
-        <SourceFilename>C:\DuneBuggyGame\DuneBuggyGame\DuneBuggyGame\Content\Models\Mars.FBX</SourceFilename>
+        <SourceFilename>C:\Documents and Settings\rmk5056\Desktop\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\Models\Mars.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -90,7 +90,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>20 - Default</Name>
       <Identity>
-        <SourceFilename>C:\DuneBuggyGame\DuneBuggyGame\DuneBuggyGame\Content\Models\Mars.FBX</SourceFilename>
+        <SourceFilename>C:\Documents and Settings\rmk5056\Desktop\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\Models\Mars.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
