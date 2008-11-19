@@ -57,7 +57,7 @@ namespace DuneBuggyGame
         /// <param name="contentMngr">Content Manager that this game is using</param>
         public HUD(ContentManager contentMngr)
         {
-            gaugePosition = new Vector2(700, 500);
+            gaugePosition = new Vector2(720, 520);
             speed = 0;
             throttle = 1f;
             afterburner = 1f;
@@ -92,16 +92,16 @@ namespace DuneBuggyGame
 
             if (currentInputState.UpButton == ButtonState.Pressed)
             {
-                if (speed <= 300)
-                    speed += 5;
-                else if (speed > 300)
+                if (speed <= 150)
+                    speed += 2;
+                else if (speed > 150)
                     speed += 1;
             }
             else
                 speed -= 1;
 
-            speed = (int)(MathHelper.Clamp((float)(speed), 0f, 500));
-            rotation = MathHelper.ToRadians(270) / 500 * speed - MathHelper.ToRadians(135);
+            speed = (int)(MathHelper.Clamp((speed), 0f, 200));
+            rotation = MathHelper.ToRadians(680) /500 * speed - MathHelper.ToRadians(135);
         }
         #endregion 
 
