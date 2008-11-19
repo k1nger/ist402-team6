@@ -52,42 +52,42 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Textures\dunebuggy.jpg">
+    <Compile Include="Textures\Menu\dunebuggy.jpg">
       <Name>dunebuggy</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\dunebuggy_LARGE.jpg">
+    <Compile Include="Textures\Menu\dunebuggy_LARGE.jpg">
       <Name>dunebuggy_LARGE</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\MenuBar.png">
+    <Compile Include="Textures\Menu\MenuBar.png">
       <Name>MenuBar</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\MenuCredits.png">
+    <Compile Include="Textures\Menu\MenuCredits.png">
       <Name>MenuCredits</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\MenuExit.png">
+    <Compile Include="Textures\Menu\MenuExit.png">
       <Name>MenuExit</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\MenuHeader.png">
+    <Compile Include="Textures\Menu\MenuHeader.png">
       <Name>MenuHeader</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\MenuOptions.png">
+    <Compile Include="Textures\Menu\MenuOptions.png">
       <Name>MenuOptions</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\MenuPlay.png">
+    <Compile Include="Textures\Menu\MenuPlay.png">
       <Name>MenuPlay</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
@@ -133,37 +133,50 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Textures\hud copy.bmp">
-      <Name>hud copy</Name>
+    <Compile Include="Textures\HUD\laptimes.bmp">
+      <Name>laptimes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Textures\HUD\position.bmp">
+      <Name>position</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Textures\laptimes.bmp">
-      <Name>laptimes</Name>
+    <Compile Include="Textures\HUD\dungeon28.bmp">
+      <Name>dungeon28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <ProcessorParameters_FirstCharacter>0</ProcessorParameters_FirstCharacter>
+    </Compile>
+    <Compile Include="Textures\HUD\gauge.png">
+      <Name>gauge</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\position.bmp">
-      <Name>position</Name>
+    <Compile Include="Textures\HUD\meterfill.png">
+      <Name>meterfill</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\speed.bmp">
-      <Name>speed</Name>
+    <Compile Include="Textures\HUD\needle.png">
+      <Name>needle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\speedometer.bmp">
-      <Name>speedometer</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\HUD\gamefont.spritefont">
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
     </Compile>
-    <Compile Include="Textures\speedometerneedle.bmp">
-      <Name>speedometerneedle</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
+    <Compile Include="Textures\HUD\MeterEffect.fx">
+      <Name>MeterEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v3.0\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
