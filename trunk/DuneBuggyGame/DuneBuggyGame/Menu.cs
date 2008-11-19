@@ -29,12 +29,12 @@ namespace DuneBuggyGame
         #region Constructor
         public Menu(ContentManager contentMngr)
         {
-            mainMenuBG = contentMngr.Load<Texture2D>(@"Textures\dunebuggy");
-            menuCredits = contentMngr.Load<Texture2D>(@"Textures\MenuCredits");
-            menuExit = contentMngr.Load<Texture2D>(@"Textures\MenuExit");
-            menuOptions = contentMngr.Load<Texture2D>(@"Textures\MenuOptions");
-            menuPlay = contentMngr.Load<Texture2D>(@"Textures\MenuPlay");
-            menuHeader = contentMngr.Load<Texture2D>(@"Textures\MenuHeader");
+            mainMenuBG = contentMngr.Load<Texture2D>(@"Textures\Menu\dunebuggy");
+            menuCredits = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuCredits");
+            menuExit = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuExit");
+            menuOptions = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuOptions");
+            menuPlay = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuPlay");
+            menuHeader = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuHeader");
 
             _PreviousInputState = GameInput.GetState();
         }//Menu
