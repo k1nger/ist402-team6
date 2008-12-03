@@ -25,6 +25,7 @@ namespace DuneBuggyGame
         Track1 _Track1;
         Graphics _Graphics;
         SpriteBatch spriteBatch;
+        GameTime gamet;
         
         /// <summary>
         /// Find with and height of game resolution to fit background
@@ -98,7 +99,7 @@ namespace DuneBuggyGame
                 gameMode = _GameMenu.Update(this);
             }
             else if (gameMode == GameMode.Play)
-                gameMode = _Track1.Update(gameTime);
+                gameMode = _Track1.Update(gameTime, this);
 
             // TODO: Add your update logic here
 
@@ -114,7 +115,7 @@ namespace DuneBuggyGame
         protected override void Draw(GameTime gameTime)
         {
             _Graphics.GDM.GraphicsDevice.Clear(Color.CornflowerBlue);
-
+            gamet = gameTime;
             gameModeToDraw(gameMode);
             // TODO: Add your drawing code here
 
@@ -132,8 +133,8 @@ namespace DuneBuggyGame
                 case GameMode.Menu:
                     _GameMenu.Draw(spriteBatch, width, height);
                     break;
-                case GameMode.Play:
-                    _Play.Draw(spriteBatch);
+                case GameMode.Play:    
+                    _Track1.Draw(gamet);
                     break;
             }
         }
