@@ -22,6 +22,7 @@ namespace DuneBuggyGame
         #region Variables
         Menu _GameMenu;
         Play _Play;
+        Track1 _Track1;
         Graphics _Graphics;
         SpriteBatch spriteBatch;
         
@@ -66,7 +67,7 @@ namespace DuneBuggyGame
 
             _GameMenu = new Menu(this.Content);
             _Play = new Play(this.Content);
-
+            _Track1 = new Track1(this.Content, _Graphics);
             // TODO: use this.Content to load your game content here
         }
 
@@ -97,7 +98,7 @@ namespace DuneBuggyGame
                 gameMode = _GameMenu.Update(this);
             }
             else if (gameMode == GameMode.Play)
-                gameMode = _Play.Update(this);
+                gameMode = _Track1.Update(gameTime);
 
             // TODO: Add your update logic here
 
