@@ -18,6 +18,7 @@ namespace DuneBuggyGame
         Matrix viewMatrix;
         Matrix projectionMatrix;
         Vector3 campos;
+        HUD hud;
 
         Model buggyModel;
         Model landscape;
@@ -47,6 +48,7 @@ namespace DuneBuggyGame
             device = graphics.GraphicsDevice;
             spriteBatch = new SpriteBatch(device);
 
+            hud = new HUD(contentMgr);
             landscape = contentMgr.Load<Model>("Models\\plane");
             buggyModel = contentMgr.Load<Model>("Models\\buggy");
             textFont = contentMgr.Load<SpriteFont>("Courier New");
@@ -63,12 +65,13 @@ namespace DuneBuggyGame
             projectionMatrix = Matrix.CreatePerspectiveFieldOfView(MathHelper.PiOver4, device.Viewport.AspectRatio, 0.2f, 500.0f);
         }
 
-        public GameMode Update(GameTime gameTime)
+        public GameMode Update(GameTime gameTime, Game1 game)
         {
             ProcessKeyboard(gameTime);
             float moveSpeed = gameTime.ElapsedGameTime.Milliseconds / 500.0f * gameSpeed;
             moveSpeed *= (MaxSpeed * curAcc);
             MoveForward(ref buggyPosition, buggyRotation, moveSpeed);
+            hud.Update(game);
 
             buggySpeed = moveSpeed;
 
@@ -172,7 +175,7 @@ namespace DuneBuggyGame
                 "BuggySpeed: " + buggySpeed,
                 new Vector2(20, 80), Color.LightGreen, 0, FontOrigin, 0.5f, SpriteEffects.None, 0.5f);
             spriteBatch.End();
-
+            hud.Draw(spriteBatch);
             
         }
 
