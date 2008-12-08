@@ -85,7 +85,7 @@ namespace DuneBuggyGame
 
             cameraRotation = Quaternion.Lerp(cameraRotation, buggyRotation, 0.1f);
 
-            campos = new Vector3(-0.15f, 0.3f, 1.0f);
+            campos = new Vector3(0.0f, 0.6f, 2.0f);
             campos = Vector3.Transform(campos, Matrix.CreateFromQuaternion(cameraRotation));
             campos += buggyPosition;
 
@@ -118,17 +118,17 @@ namespace DuneBuggyGame
             if (keys.IsKeyDown(Keys.Up))
             {
                 if (curAcc < MaxAccSpeed)
-                    curAcc += 0.1f;
+                    curAcc += 0.003f;
             }
             else if (keys.IsKeyDown(Keys.Down))
             {
                 if (curAcc > MaxAccBreak)
-                    curAcc -= 0.1f;
+                    curAcc -= 0.005f;
             }
             else
             {
                 if (curAcc > 0)
-                    curAcc -= 0.1f;
+                    curAcc -= 0.008f;
                 if (curAcc < 0)
                     curAcc += 0.1f;
                 if ((curAcc > -0.1f) && (curAcc < 0.1f))

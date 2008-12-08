@@ -22,8 +22,8 @@ namespace DuneBuggyGame
         {
             mainMenuBG = contentMngr.Load<Texture2D>(@"Textures\Menu\dunebuggy");
             menuHeader = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuHeader");
-            optionsSoundsOff = contentMngr.Load<Texture2D>(@"Textures\Menu\SoundsOff");
-            optionsSoundsOn = contentMngr.Load<Texture2D>(@"Textures\Menu\SoundsOn");
+            //optionsSoundsOff = contentMngr.Load<Texture2D>(@"Textures\Menu\SoundsOff");
+            //optionsSoundsOn = contentMngr.Load<Texture2D>(@"Textures\Menu\SoundsOn");
             _PreviousInputState = GameInput.GetState();
         }
         
