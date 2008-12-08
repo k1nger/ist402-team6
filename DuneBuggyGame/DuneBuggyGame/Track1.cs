@@ -85,7 +85,7 @@ namespace DuneBuggyGame
 
             cameraRotation = Quaternion.Lerp(cameraRotation, buggyRotation, 0.1f);
 
-            campos = new Vector3(0f, 0.5f, 3.0f);
+            campos = new Vector3(-0.15f, 0.3f, 1.0f);
             campos = Vector3.Transform(campos, Matrix.CreateFromQuaternion(cameraRotation));
             campos += buggyPosition;
 
