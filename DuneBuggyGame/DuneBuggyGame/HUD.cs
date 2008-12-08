@@ -38,7 +38,7 @@ namespace DuneBuggyGame
         public Vector2 gaugePosition;
 
         //Values set externally based on object the gauge is monitoring
-        int speed;
+        float speed;
         float throttle;
         float afterburner;
 
@@ -92,10 +92,11 @@ namespace DuneBuggyGame
 
             if (currentInputState.UpButton == ButtonState.Pressed)
             {
+                
                 if (speed <= 150)
-                    speed += 2;
+                    speed += 1f;
                 else if (speed > 150)
-                    speed += 1;
+                    speed += .5f;
             }
             else
                 speed -= 1;
