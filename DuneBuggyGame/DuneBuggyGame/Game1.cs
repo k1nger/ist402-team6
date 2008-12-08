@@ -20,6 +20,7 @@ namespace DuneBuggyGame
     {
 
         #region Variables
+        MenuOptions _OptionsMenu;
         Menu _GameMenu;
         Play _Play;
         Track1 _Track1;
@@ -54,6 +55,7 @@ namespace DuneBuggyGame
             width = GraphicsDevice.DisplayMode.Width;
             height = GraphicsDevice.DisplayMode.Height;
 
+            Sound.StartMusic();
             base.Initialize();
         }
 
@@ -69,6 +71,7 @@ namespace DuneBuggyGame
             _GameMenu = new Menu(this.Content);
             _Play = new Play(this.Content);
             _Track1 = new Track1(this.Content, _Graphics);
+            _OptionsMenu = new MenuOptions(this.Content);
             // TODO: use this.Content to load your game content here
         }
 
@@ -90,16 +93,15 @@ namespace DuneBuggyGame
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            if (gameMode != GameMode.Menu)
-                Sound.StopMusic();
-
             if (gameMode == GameMode.Menu)
-            {
-                Sound.StartMusic();
                 gameMode = _GameMenu.Update(this);
-            }
             else if (gameMode == GameMode.Play)
+            {
+                Sound.StopMusic();
                 gameMode = _Track1.Update(gameTime, this);
+            }
+            else if (gameMode == GameMode.Options)
+                gameMode = _OptionsMenu.UpdateOptions(this);
 
             // TODO: Add your update logic here
 
@@ -135,6 +137,9 @@ namespace DuneBuggyGame
                     break;
                 case GameMode.Play:    
                     _Track1.Draw(gamet);
+                    break;
+                case GameMode.Options:
+                    _OptionsMenu.DrawOptions(spriteBatch);
                     break;
             }
         }

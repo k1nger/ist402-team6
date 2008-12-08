@@ -49,7 +49,7 @@ namespace DuneBuggyGame
             spriteBatch = new SpriteBatch(device);
 
             hud = new HUD(contentMgr);
-            landscape = contentMgr.Load<Model>("Models\\plane");
+            landscape = contentMgr.Load<Model>("Models\\trackeight_justtrack");
             buggyModel = contentMgr.Load<Model>("Models\\buggy");
             textFont = contentMgr.Load<SpriteFont>("Courier New");
             curAcc = 0;
