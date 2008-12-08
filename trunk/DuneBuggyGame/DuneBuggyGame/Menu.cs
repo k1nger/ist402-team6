@@ -19,9 +19,11 @@ namespace DuneBuggyGame
         Texture2D menuExit;
         Texture2D menuOptions;
         Texture2D menuPlay;
+        Texture2D optionsSoundsOn, optionsSoundsOff;
 
-        private int _SelectedMenuItem;
+        private int _SelectedMenuItem, _SelectedOptionItem;
         private const int _TotalMenuItems = 3;// This number is zero-based, so there are three menu items in total.
+        private const int _TotalOptionItems = 1;//Another zero-based number.
 
         GameInput _PreviousInputState;
         #endregion
@@ -35,9 +37,15 @@ namespace DuneBuggyGame
             menuOptions = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuOptions");
             menuPlay = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuPlay");
             menuHeader = contentMngr.Load<Texture2D>(@"Textures\Menu\MenuHeader");
+            optionsSoundsOff = contentMngr.Load<Texture2D>(@"Textures\Menu\SoundsOff");
+            optionsSoundsOn = contentMngr.Load<Texture2D>(@"Textures\Menu\SoundsOn");
 
             _PreviousInputState = GameInput.GetState();
         }//Menu
+
+        public Menu()
+        {
+        }
         #endregion
 
         #region Update
@@ -63,7 +71,6 @@ namespace DuneBuggyGame
                 else
                     _SelectedMenuItem--;
             }
-
             if (currentInputState.SelectButton == ButtonState.Pressed && _PreviousInputState.SelectButton == ButtonState.Released)
             {
                 Sound.Play(Sound.Sounds.MenuSelect);
