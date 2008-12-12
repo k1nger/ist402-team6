@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\DeimosDiffuseMap.xnb</Output>
-      <Time>2008-12-07T14:49:46.1143462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\DeimosDiffuseMap.xnb</Output>
+      <Time>2008-12-11T22:12:10.4462167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\MarsDiffuseMap.tga</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\MarsDiffuseMap.xnb</Output>
-      <Time>2008-12-07T14:49:45.9433462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\MarsDiffuseMap.xnb</Output>
+      <Time>2008-12-11T22:12:07.6337167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\dunebuggy.jpg</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\dunebuggy.xnb</Output>
-      <Time>2008-12-07T14:49:48.4853462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\dunebuggy.xnb</Output>
+      <Time>2008-12-11T22:12:15.6337167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\dunebuggy_LARGE.jpg</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\dunebuggy_LARGE.xnb</Output>
-      <Time>2008-12-07T14:49:48.4593462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\dunebuggy_LARGE.xnb</Output>
+      <Time>2008-12-11T22:12:15.6180917-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuBar.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuBar.xnb</Output>
-      <Time>2008-12-07T14:49:48.4943462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuBar.xnb</Output>
+      <Time>2008-12-11T22:12:15.6337167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuCredits.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuCredits.xnb</Output>
-      <Time>2008-12-07T14:49:48.4823462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuCredits.xnb</Output>
+      <Time>2008-12-11T22:12:15.6337167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuExit.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuExit.xnb</Output>
-      <Time>2008-12-07T14:49:48.3593462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuExit.xnb</Output>
+      <Time>2008-12-11T22:12:15.6024667-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuHeader.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuHeader.xnb</Output>
-      <Time>2008-12-07T14:49:48.3563462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuHeader.xnb</Output>
+      <Time>2008-12-11T22:12:15.6024667-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuOptions.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuOptions.xnb</Output>
-      <Time>2008-12-07T14:49:48.4793462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuOptions.xnb</Output>
+      <Time>2008-12-11T22:12:15.6180917-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuPlay.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuPlay.xnb</Output>
-      <Time>2008-12-07T14:49:48.4973462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\Menu\MenuPlay.xnb</Output>
+      <Time>2008-12-11T22:12:15.6493417-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\laptimes.bmp</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\laptimes.xnb</Output>
-      <Time>2008-12-07T14:49:46.2983462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\laptimes.xnb</Output>
+      <Time>2008-12-11T22:12:11.5712167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\position.bmp</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\position.xnb</Output>
-      <Time>2008-12-07T14:49:46.2313462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\position.xnb</Output>
+      <Time>2008-12-11T22:12:11.5243417-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\dungeon28.bmp</Source>
@@ -118,8 +118,8 @@
         <Data Key="FirstCharacter">0</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\dungeon28.xnb</Output>
-      <Time>2008-12-07T14:49:46.2923462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\dungeon28.xnb</Output>
+      <Time>2008-12-11T22:12:11.5555917-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\gauge.png</Source>
@@ -127,8 +127,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\gauge.xnb</Output>
-      <Time>2008-12-07T14:49:46.3013462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\gauge.xnb</Output>
+      <Time>2008-12-11T22:12:11.5712167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\meterfill.png</Source>
@@ -136,8 +136,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\meterfill.xnb</Output>
-      <Time>2008-12-07T14:49:46.2953462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\meterfill.xnb</Output>
+      <Time>2008-12-11T22:12:11.5555917-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\needle.png</Source>
@@ -145,8 +145,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\needle.xnb</Output>
-      <Time>2008-12-07T14:49:46.2283462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\needle.xnb</Output>
+      <Time>2008-12-11T22:12:11.5243417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\asphalt_.jpg</Source>
@@ -154,8 +154,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\asphalt_.xnb</Output>
-      <Time>2008-12-07T14:49:38.7913462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\asphalt_.xnb</Output>
+      <Time>2008-12-11T22:11:55.3055917-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Materi01.jpg</Source>
@@ -163,8 +163,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi01.xnb</Output>
-      <Time>2008-12-07T14:49:38.6583462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi01.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Materi26.jpg</Source>
@@ -172,8 +172,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi26.xnb</Output>
-      <Time>2008-12-07T14:49:38.6813462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi26.xnb</Output>
+      <Time>2008-12-11T22:11:55.2899667-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Materi35.jpg</Source>
@@ -181,8 +181,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi35.xnb</Output>
-      <Time>2008-12-07T14:49:38.6783462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi35.xnb</Output>
+      <Time>2008-12-11T22:11:55.2899667-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Materi64.jpg</Source>
@@ -190,8 +190,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi64.xnb</Output>
-      <Time>2008-12-07T14:49:38.7053462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi64.xnb</Output>
+      <Time>2008-12-11T22:11:55.2899667-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Materi76.jpg</Source>
@@ -199,8 +199,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi76.xnb</Output>
-      <Time>2008-12-07T14:49:38.7993462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Materi76.xnb</Output>
+      <Time>2008-12-11T22:11:55.3055917-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Material.jpg</Source>
@@ -208,8 +208,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Material.xnb</Output>
-      <Time>2008-12-07T14:49:38.8023462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Material.xnb</Output>
+      <Time>2008-12-11T22:11:55.3055917-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Metal1.jpg</Source>
@@ -217,8 +217,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal1.xnb</Output>
-      <Time>2008-12-07T14:49:38.6693462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal1.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Metal_Co.jpg</Source>
@@ -226,8 +226,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal_Co.xnb</Output>
-      <Time>2008-12-07T14:49:38.6663462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal_Co.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Metal_Ru.jpg</Source>
@@ -235,8 +235,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal_Ru.xnb</Output>
-      <Time>2008-12-07T14:49:38.6353462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal_Ru.xnb</Output>
+      <Time>2008-12-11T22:11:55.2587167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\PAVE_col.jpg</Source>
@@ -244,8 +244,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\PAVE_col.xnb</Output>
-      <Time>2008-12-07T14:49:38.6743462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\PAVE_col.xnb</Output>
+      <Time>2008-12-11T22:11:55.2899667-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Water_Po.jpg</Source>
@@ -253,8 +253,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Water_Po.xnb</Output>
-      <Time>2008-12-07T14:49:38.6493462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Water_Po.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Blue_Ti.jpg</Source>
@@ -262,8 +262,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Blue_Ti.xnb</Output>
-      <Time>2008-12-07T14:49:38.6523462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Blue_Ti.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Brick_r.jpg</Source>
@@ -271,8 +271,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Brick_r.xnb</Output>
-      <Time>2008-12-07T14:49:38.6393462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Brick_r.xnb</Output>
+      <Time>2008-12-11T22:11:55.2587167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Carpe04.jpg</Source>
@@ -280,8 +280,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Carpe04.xnb</Output>
-      <Time>2008-12-07T14:49:38.7953462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Carpe04.xnb</Output>
+      <Time>2008-12-11T22:11:55.3055917-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Charc04.JPG</Source>
@@ -289,8 +289,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Charc04.xnb</Output>
-      <Time>2008-12-07T14:49:38.6623462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Charc04.xnb</Output>
+      <Time>2008-12-11T22:11:55.2899667-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Metal01.jpg</Source>
@@ -298,8 +298,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Metal01.xnb</Output>
-      <Time>2008-12-07T14:49:38.5473462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Metal01.xnb</Output>
+      <Time>2008-12-11T22:11:55.2430917-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Metal_C.jpg</Source>
@@ -307,8 +307,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Metal_C.xnb</Output>
-      <Time>2008-12-07T14:49:38.6063462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Metal_C.xnb</Output>
+      <Time>2008-12-11T22:11:55.2587167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_OSB__ch.jpg</Source>
@@ -316,8 +316,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_OSB__ch.xnb</Output>
-      <Time>2008-12-07T14:49:38.7483462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_OSB__ch.xnb</Output>
+      <Time>2008-12-11T22:11:55.3055917-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Plant_C.jpg</Source>
@@ -325,8 +325,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Plant_C.xnb</Output>
-      <Time>2008-12-07T14:49:38.6453462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Plant_C.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Stone_0.jpg</Source>
@@ -334,8 +334,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Stone_0.xnb</Output>
-      <Time>2008-12-07T14:49:38.6323462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Stone_0.xnb</Output>
+      <Time>2008-12-11T22:11:55.2587167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\_Stone_M.jpg</Source>
@@ -343,8 +343,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Stone_M.xnb</Output>
-      <Time>2008-12-07T14:49:38.5513462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\_Stone_M.xnb</Output>
+      <Time>2008-12-11T22:11:55.2587167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\Mars.FBX</Source>
@@ -352,14 +352,14 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\Mars.xnb</Output>
-      <Time>2008-12-07T14:49:45.9533462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\Mars.xnb</Output>
+      <Time>2008-12-11T22:12:07.6962167-05:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\Mars_0.xml</Key>
-        <Value>2008-12-07T14:52:16.9843462-05:00</Value>
+        <Value>2008-12-11T22:15:20.3680917-05:00</Value>
       </Dependency>
-      <Request>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\MarsDiffuseMap_0.xnb</Request>
-      <Request>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\DeimosDiffuseMap_0.xnb</Request>
+      <Request>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\MarsDiffuseMap_0.xnb</Request>
+      <Request>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\DeimosDiffuseMap_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\rustyoildrum.fbx</Source>
@@ -367,11 +367,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\rustyoildrum.xnb</Output>
-      <Time>2008-12-07T14:49:45.9623462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\rustyoildrum.xnb</Output>
+      <Time>2008-12-11T22:12:07.7118417-05:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\rustyoildrum_0.xml</Key>
-        <Value>2008-12-07T14:52:23.7133462-05:00</Value>
+        <Value>2008-12-11T22:15:28.1493417-05:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -380,11 +380,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\plane.xnb</Output>
-      <Time>2008-12-07T14:49:46.0683462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\plane.xnb</Output>
+      <Time>2008-12-11T22:12:09.1962167-05:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\plane_0.xml</Key>
-        <Value>2008-12-07T14:52:24.8373462-05:00</Value>
+        <Value>2008-12-11T22:15:28.3368417-05:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -393,13 +393,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\buggy.xnb</Output>
-      <Time>2008-12-07T14:49:46.0593462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\buggy.xnb</Output>
+      <Time>2008-12-11T22:12:09.1962167-05:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\buggy_0.xml</Key>
-        <Value>2008-12-07T14:52:47.5853462-05:00</Value>
+        <Value>2008-12-11T22:16:04.4618417-05:00</Value>
       </Dependency>
-      <Request>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal1_0.xnb</Request>
+      <Request>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal1_0.xnb</Request>
     </Item>
     <Item>
       <Source>Sounds\Booing.wav</Source>
@@ -407,8 +407,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\Booing.xnb</Output>
-      <Time>2008-12-07T14:50:33.6763462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\Booing.xnb</Output>
+      <Time>2008-12-11T22:13:40.9618417-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Cheering.wav</Source>
@@ -416,8 +416,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\Cheering.xnb</Output>
-      <Time>2008-12-07T14:50:33.3553462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\Cheering.xnb</Output>
+      <Time>2008-12-11T22:13:34.4149667-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Congratulations.wav</Source>
@@ -425,8 +425,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\Congratulations.xnb</Output>
-      <Time>2008-12-07T14:50:33.6683462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\Congratulations.xnb</Output>
+      <Time>2008-12-11T22:13:40.9305917-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\MenuMove.wav</Source>
@@ -434,8 +434,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\MenuMove.xnb</Output>
-      <Time>2008-12-07T14:50:33.6633462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\MenuMove.xnb</Output>
+      <Time>2008-12-11T22:13:40.9305917-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\MenuSelect.wav</Source>
@@ -443,8 +443,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\MenuSelect.xnb</Output>
-      <Time>2008-12-07T14:50:33.3483462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\MenuSelect.xnb</Output>
+      <Time>2008-12-11T22:13:34.3993417-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\MenuSong.wav</Source>
@@ -452,8 +452,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\MenuSong.xnb</Output>
-      <Time>2008-12-07T14:50:33.6043462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Sounds\MenuSong.xnb</Output>
+      <Time>2008-12-11T22:13:39.8993417-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\gamefont.spritefont</Source>
@@ -461,8 +461,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\gamefont.xnb</Output>
-      <Time>2008-12-07T14:49:46.3033462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\gamefont.xnb</Output>
+      <Time>2008-12-11T22:12:11.5868417-05:00</Time>
     </Item>
     <Item>
       <Source>Courier New.spritefont</Source>
@@ -470,8 +470,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Courier New.xnb</Output>
-      <Time>2008-12-07T14:50:33.8143462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2008-12-11T22:13:41.0087167-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HUD\MeterEffect.fx</Source>
@@ -479,15 +479,15 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\MeterEffect.xnb</Output>
-      <Time>2008-12-07T14:49:46.2333462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Textures\HUD\MeterEffect.xnb</Output>
+      <Time>2008-12-11T22:12:11.5399667-05:00</Time>
     </Item>
     <Item>
       <Source>Models\Mars.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\Mars_0.xml</Output>
-      <Time>2008-12-07T14:49:45.9533462-05:00</Time>
+      <Time>2008-12-11T22:12:07.6962167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\MarsDiffuseMap.tga</Source>
@@ -501,8 +501,8 @@
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\MarsDiffuseMap_0.xnb</Output>
-      <Time>2008-12-07T14:49:45.9433462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\MarsDiffuseMap_0.xnb</Output>
+      <Time>2008-12-11T22:12:07.6337167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\DeimosDiffuseMap.tga</Source>
@@ -516,29 +516,29 @@
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\DeimosDiffuseMap_0.xnb</Output>
-      <Time>2008-12-07T14:49:46.1143462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\DeimosDiffuseMap_0.xnb</Output>
+      <Time>2008-12-11T22:12:10.4462167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\rustyoildrum.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\rustyoildrum_0.xml</Output>
-      <Time>2008-12-07T14:49:45.9623462-05:00</Time>
+      <Time>2008-12-11T22:12:07.7118417-05:00</Time>
     </Item>
     <Item>
       <Source>Models\plane.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\plane_0.xml</Output>
-      <Time>2008-12-07T14:49:46.0683462-05:00</Time>
+      <Time>2008-12-11T22:12:09.1962167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\buggy.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\buggy_0.xml</Output>
-      <Time>2008-12-07T14:49:46.0593462-05:00</Time>
+      <Time>2008-12-11T22:12:09.1962167-05:00</Time>
     </Item>
     <Item>
       <Source>Models\fbx\Metal1.jpg</Source>
@@ -552,43 +552,63 @@
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal1_0.xnb</Output>
-      <Time>2008-12-07T14:49:38.6693462-05:00</Time>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\fbx\Metal1_0.xnb</Output>
+      <Time>2008-12-11T22:11:55.2743417-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\trackeight_justtrack.fbx</Source>
+      <Name>Models\trackeight_justtrack</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\Models\trackeight_justtrack.xnb</Output>
+      <Time>2008-12-11T22:16:55.7899667-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\trackeight_justtrack_0.xml</Key>
+        <Value>2008-12-11T22:18:05.7899667-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\trackeight_justtrack.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\trackeight_justtrack_0.xml</Output>
+      <Time>2008-12-11T22:16:55.7899667-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2008-10-10T18:42:32-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2008-10-10T18:43:28-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2008-10-10T18:43:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2008-10-10T18:48:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2008-10-10T18:48:50-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2008-11-12T11:07:18.0891525-05:00</Value>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-05T17:17:39.140625-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

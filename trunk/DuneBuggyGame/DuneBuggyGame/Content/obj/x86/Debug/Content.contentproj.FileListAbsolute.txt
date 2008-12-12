@@ -6,3 +6,5 @@ C:\Documents and Settings\rmk5056\Desktop\ist402-team6\DuneBuggyGame\DuneBuggyGa
 C:\Documents and Settings\rmk5056\Desktop\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\Sounds\GameSounds.xml
 C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Erebus\Desktop\DuneBuggyGame\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\Sounds\GameSounds.xml
+C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ryan\Desktop\School\402\ist402-team6\DuneBuggyGame\DuneBuggyGame\Content\obj\x86\Debug\Sounds\GameSounds.xml
