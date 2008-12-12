@@ -24,6 +24,7 @@ namespace DuneBuggyGame
         Menu _GameMenu;
         Play _Play;
         Track1 _Track1;
+        MenuCredits _CreditsMenu;
         Graphics _Graphics;
         SpriteBatch spriteBatch;
         GameTime gamet;
@@ -72,6 +73,7 @@ namespace DuneBuggyGame
             _Play = new Play(this.Content);
             _Track1 = new Track1(this.Content, _Graphics);
             _OptionsMenu = new MenuOptions(this.Content);
+            _CreditsMenu = new MenuCredits(this.Content);
             // TODO: use this.Content to load your game content here
         }
 
@@ -102,6 +104,8 @@ namespace DuneBuggyGame
             }
             else if (gameMode == GameMode.Options)
                 gameMode = _OptionsMenu.UpdateOptions(this);
+            else if (gameMode == GameMode.Credits)
+                gameMode = _CreditsMenu.UpdateCredits(this);
 
             // TODO: Add your update logic here
 
@@ -140,6 +144,9 @@ namespace DuneBuggyGame
                     break;
                 case GameMode.Options:
                     _OptionsMenu.DrawOptions(spriteBatch);
+                    break;
+                case GameMode.Credits:
+                    _CreditsMenu.DrawCredits(spriteBatch);
                     break;
             }
         }
