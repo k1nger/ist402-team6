@@ -56,7 +56,7 @@ namespace DuneBuggyGame
             SetUpCamera();
         }
 
-      
+
 
 
         private void SetUpCamera()
@@ -76,7 +76,7 @@ namespace DuneBuggyGame
             buggySpeed = moveSpeed;
 
             UpdateCamera();
-            
+
             return GameMode.Play;
         }
 
@@ -133,8 +133,8 @@ namespace DuneBuggyGame
                     curAcc += 0.1f;
                 if ((curAcc > -0.1f) && (curAcc < 0.1f))
                     curAcc = 0;
-            }              
-                
+            }
+
 
             Quaternion additionalRot = Quaternion.CreateFromAxisAngle(new Vector3(0, 1, 0), leftRightRot) * Quaternion.CreateFromAxisAngle(new Vector3(1, 0, 0), upDownRot);
             buggyRotation *= additionalRot;
@@ -151,9 +151,9 @@ namespace DuneBuggyGame
         public void Draw(GameTime gameTime)
         {
             device.Clear(Color.CornflowerBlue);
-            device.RenderState.CullMode = CullMode.None;           
+            device.RenderState.CullMode = CullMode.None;
 
-            DrawLandscape(landscape,new Vector3(0,0,0));
+            DrawLandscape(landscape, new Vector3(0, 0, 0));
             DrawModel(buggyModel);
 
             Vector2 FontOrigin = textFont.MeasureString("test") / 2;
@@ -176,7 +176,7 @@ namespace DuneBuggyGame
                 new Vector2(20, 80), Color.LightGreen, 0, FontOrigin, 0.5f, SpriteEffects.None, 0.5f);
             spriteBatch.End();
             hud.Draw(spriteBatch);
-            
+
         }
 
         private void DrawModel(Model model)
@@ -187,7 +187,7 @@ namespace DuneBuggyGame
                 {
                     effect.EnableDefaultLighting();
                     effect.PreferPerPixelLighting = true;
-                    
+
                     effect.World = Matrix.CreateScale(0.005f, 0.005f, 0.005f) *
                                    Matrix.CreateRotationX(-MathHelper.Pi / 2) *
                                    Matrix.CreateFromQuaternion(buggyRotation) *
@@ -210,7 +210,7 @@ namespace DuneBuggyGame
                     effect.EnableDefaultLighting();
                     effect.PreferPerPixelLighting = true;
 
-                    effect.World = Matrix.CreateTranslation(position) * 
+                    effect.World = Matrix.CreateTranslation(position) *
                                    Matrix.CreateScale(new Vector3(50, 50, 50)) *
                                    Matrix.CreateRotationX(MathHelper.Pi / 2);
                     effect.Projection = projectionMatrix;
