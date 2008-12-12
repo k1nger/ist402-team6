@@ -36,6 +36,11 @@ namespace DuneBuggyGame
         /// </summary>
         static SoundBank soundBank;
         static AudioCategory musicCategory;
+        /// <summary>
+        /// Checks if music is stopped or not
+        /// </summary>
+        static bool musicStopped = false;
+
         #endregion
 
         #region Enums
@@ -117,8 +122,9 @@ namespace DuneBuggyGame
         /// </summary>
         public static void StartMusic()
         {
-            if (soundBank.IsInUse == false)
+            if (musicStopped == true || soundBank.IsInUse == false)
                 Play(Sounds.MenuSong);
+            musicStopped = false;
         } // StartMusic()
 
         /// <summary>
@@ -127,6 +133,7 @@ namespace DuneBuggyGame
         public static void StopMusic()
         {
             musicCategory.Stop(AudioStopOptions.Immediate);
+            musicStopped = true;
         } // StopMusic()
         #endregion
 
